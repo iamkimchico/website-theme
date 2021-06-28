@@ -2,4 +2,4 @@
 
 The Website theme of Kimchico
 
-This is a test
+new test
